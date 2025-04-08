@@ -22,7 +22,6 @@ def get_actual_image_url(base_url, image_number):
         Complete URL if found, None otherwise
     """
     try:
-        # First, try to list the directory to find the actual filename
         with urllib.request.urlopen(base_url) as response:
             html = response.read().decode('utf-8')
             

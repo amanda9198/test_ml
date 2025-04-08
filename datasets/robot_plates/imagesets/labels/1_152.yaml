@@ -1,0 +1,1140 @@
+images:
+  - annotations:
+      - 1, 710, 351, 768, 400, 3
+      - 0, 451, 335, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003903.jpg, 960, 540
+  - annotations:
+      - 0, 451, 335, 490, 362, 10
+      - 1, 730, 356, 778, 394, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003906.jpg, 960, 540
+  - annotations:
+      - 1, 739, 356, 797, 394, 3
+      - 0, 451, 340, 480, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003908.jpg, 960, 540
+  - annotations:
+      - 1, 768, 362, 806, 389, 3
+      - 1, 662, 351, 691, 383, 4
+      - 0, 451, 340, 480, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003911.jpg, 960, 540
+  - annotations:
+      - 0, 461, 335, 490, 362, 10
+      - 1, 778, 362, 816, 394, 3
+      - 1, 672, 351, 710, 389, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003914.jpg, 960, 540
+  - annotations:
+      - 0, 461, 340, 490, 362, 10
+      - 1, 682, 351, 730, 394, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003917.jpg, 960, 540
+  - annotations:
+      - 1, 691, 356, 739, 389, 4
+      - 0, 451, 340, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003920.jpg, 960, 540
+  - annotations:
+      - 1, 701, 351, 758, 394, 4
+      - 0, 461, 340, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003923.jpg, 960, 540
+  - annotations:
+      - 1, 730, 356, 787, 394, 4
+      - 0, 461, 340, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003926.jpg, 960, 540
+  - annotations:
+      - 1, 758, 356, 826, 394, 4
+      - 0, 470, 335, 499, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003929.jpg, 960, 540
+  - annotations:
+      - 0, 586, 329, 624, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003932.jpg, 960, 540
+  - annotations:
+      - 0, 739, 335, 778, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003935.jpg, 960, 540
+  - annotations:
+      - 0, 797, 329, 835, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003938.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003941.jpg, 960, 540
+  - annotations:
+      - 0, 806, 335, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003944.jpg, 960, 540
+  - annotations:
+      - 0, 806, 335, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003947.jpg, 960, 540
+  - annotations:
+      - 0, 710, 346, 749, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003950.jpg, 960, 540
+  - annotations:
+      - 0, 595, 351, 634, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003953.jpg, 960, 540
+  - annotations:
+      - 1, 778, 373, 806, 410, 3
+      - 0, 538, 351, 576, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003956.jpg, 960, 540
+  - annotations:
+      - 1, 758, 373, 816, 410, 3
+      - 0, 518, 351, 547, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003959.jpg, 960, 540
+  - annotations:
+      - 1, 768, 373, 826, 416, 3
+      - 0, 509, 351, 538, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003962.jpg, 960, 540
+  - annotations:
+      - 0, 499, 356, 538, 378, 10
+      - 1, 778, 378, 835, 416, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003965.jpg, 960, 540
+  - annotations:
+      - 1, 797, 383, 854, 421, 3
+      - 0, 499, 356, 528, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003968.jpg, 960, 540
+  - annotations:
+      - 1, 701, 373, 739, 410, 3
+      - 0, 490, 356, 518, 383, 10
+      - 1, 826, 383, 874, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003971.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 378, 10
+      - 1, 710, 373, 768, 410, 3
+      - 1, 854, 378, 893, 416, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003974.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 378, 10
+      - 1, 730, 383, 787, 421, 3
+      - 1, 883, 383, 912, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003977.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 768, 389, 826, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003980.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 378, 10
+      - 1, 816, 383, 883, 437, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003983.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 378, 10
+      - 1, 864, 389, 931, 437, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003986.jpg, 960, 540
+  - annotations:
+      - 1, 758, 378, 797, 427, 4
+      - 0, 490, 351, 528, 373, 10
+      - 1, 922, 383, 960, 448, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003989.jpg, 960, 540
+  - annotations:
+      - 1, 778, 383, 826, 432, 4
+      - 0, 490, 351, 528, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003992.jpg, 960, 540
+  - annotations:
+      - 1, 797, 389, 845, 432, 4
+      - 0, 490, 351, 528, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003995.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 383, 10
+      - 1, 816, 405, 874, 448, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003998.jpg, 960, 540
+  - annotations:
+      - 0, 480, 356, 518, 383, 10
+      - 1, 835, 405, 912, 459, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004001.jpg, 960, 540
+  - annotations:
+      - 0, 470, 346, 509, 378, 10
+      - 1, 854, 394, 931, 454, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004004.jpg, 960, 540
+  - annotations:
+      - 0, 470, 319, 509, 351, 10
+      - 1, 874, 367, 941, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004007.jpg, 960, 540
+  - annotations:
+      - 1, 710, 297, 749, 340, 4
+      - 0, 442, 270, 490, 297, 10
+      - 1, 874, 308, 931, 367, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004010.jpg, 960, 540
+  - annotations:
+      - 0, 457, 338, 484, 361, 10
+      - 1, 706, 355, 748, 394, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003902.jpg, 960, 540
+  - annotations:
+      - 0, 451, 335, 490, 367, 10
+      - 1, 710, 351, 768, 400, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003904.jpg, 960, 540
+  - annotations:
+      - 0, 451, 335, 490, 362, 10
+      - 1, 730, 356, 787, 394, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003907.jpg, 960, 540
+  - annotations:
+      - 1, 758, 356, 806, 394, 3
+      - 0, 461, 335, 490, 356, 10
+      - 1, 662, 356, 691, 389, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003910.jpg, 960, 540
+  - annotations:
+      - 1, 662, 356, 701, 383, 4
+      - 1, 778, 362, 816, 389, 3
+      - 0, 451, 335, 480, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003913.jpg, 960, 540
+  - annotations:
+      - 1, 672, 351, 720, 394, 4
+      - 0, 461, 335, 490, 362, 10
+      - 1, 787, 356, 826, 394, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003915.jpg, 960, 540
+  - annotations:
+      - 1, 682, 356, 730, 389, 4
+      - 0, 451, 335, 480, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003918.jpg, 960, 540
+  - annotations:
+      - 1, 701, 356, 758, 389, 4
+      - 0, 461, 340, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003921.jpg, 960, 540
+  - annotations:
+      - 1, 720, 356, 778, 394, 4
+      - 0, 461, 335, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003925.jpg, 960, 540
+  - annotations:
+      - 1, 739, 351, 787, 389, 4
+      - 0, 461, 340, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003927.jpg, 960, 540
+  - annotations:
+      - 0, 490, 335, 518, 356, 10
+      - 1, 787, 351, 845, 394, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003930.jpg, 960, 540
+  - annotations:
+      - 0, 634, 324, 672, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003933.jpg, 960, 540
+  - annotations:
+      - 0, 768, 335, 806, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003936.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003939.jpg, 960, 540
+  - annotations:
+      - 0, 806, 324, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003942.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003945.jpg, 960, 540
+  - annotations:
+      - 0, 806, 335, 845, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003948.jpg, 960, 540
+  - annotations:
+      - 0, 672, 351, 710, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003951.jpg, 960, 540
+  - annotations:
+      - 1, 806, 367, 835, 405, 3
+      - 0, 576, 346, 614, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003954.jpg, 960, 540
+  - annotations:
+      - 1, 768, 373, 797, 410, 3
+      - 0, 528, 346, 566, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003957.jpg, 960, 540
+  - annotations:
+      - 1, 758, 373, 816, 416, 3
+      - 0, 518, 351, 547, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003960.jpg, 960, 540
+  - annotations:
+      - 1, 758, 373, 826, 416, 3
+      - 0, 509, 356, 538, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003963.jpg, 960, 540
+  - annotations:
+      - 1, 778, 378, 835, 416, 3
+      - 0, 499, 356, 538, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003966.jpg, 960, 540
+  - annotations:
+      - 0, 499, 356, 528, 378, 10
+      - 1, 806, 378, 854, 421, 3
+      - 1, 701, 367, 720, 410, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003969.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 378, 10
+      - 1, 701, 378, 739, 410, 3
+      - 1, 826, 378, 874, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003972.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 378, 10
+      - 1, 720, 378, 778, 416, 3
+      - 1, 864, 378, 902, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003975.jpg, 960, 540
+  - annotations:
+      - 1, 749, 378, 806, 416, 3
+      - 0, 490, 351, 528, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003978.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 787, 383, 854, 432, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003981.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 378, 10
+      - 1, 854, 383, 922, 443, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003985.jpg, 960, 540
+  - annotations:
+      - 1, 749, 373, 787, 421, 4
+      - 0, 490, 346, 528, 373, 10
+      - 1, 902, 383, 960, 443, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003988.jpg, 960, 540
+  - annotations:
+      - 1, 768, 378, 816, 421, 4
+      - 0, 499, 351, 528, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003990.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 378, 10
+      - 1, 768, 383, 835, 432, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003993.jpg, 960, 540
+  - annotations:
+      - 1, 797, 383, 845, 432, 4
+      - 0, 490, 351, 528, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003996.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 518, 383, 10
+      - 1, 826, 400, 893, 454, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004000.jpg, 960, 540
+  - annotations:
+      - 0, 480, 356, 518, 389, 10
+      - 1, 845, 405, 912, 464, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004002.jpg, 960, 540
+  - annotations:
+      - 0, 470, 340, 509, 362, 10
+      - 1, 854, 383, 931, 443, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004005.jpg, 960, 540
+  - annotations:
+      - 1, 720, 335, 758, 389, 4
+      - 0, 461, 313, 499, 340, 10
+      - 1, 874, 356, 941, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004008.jpg, 960, 540
+  - annotations:
+      - 1, 710, 275, 749, 324, 4
+      - 0, 451, 254, 480, 286, 10
+      - 1, 883, 292, 941, 346, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004011.jpg, 960, 540
+  - annotations:
+      - 1, 730, 205, 797, 248, 4
+      - 0, 442, 173, 480, 200, 10
+      - 1, 922, 211, 950, 254, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004014.jpg, 960, 540
+  - annotations:
+      - 1, 739, 200, 806, 254, 4
+      - 0, 442, 167, 490, 194, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004017.jpg, 960, 540
+  - annotations:
+      - 1, 787, 162, 854, 211, 4
+      - 0, 451, 130, 490, 157, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004020.jpg, 960, 540
+  - annotations:
+      - 0, 457, 338, 484, 361, 10
+      - 1, 703, 356, 745, 395, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003901.jpg, 960, 540
+  - annotations:
+      - 1, 720, 356, 778, 394, 3
+      - 0, 451, 335, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003905.jpg, 960, 540
+  - annotations:
+      - 1, 749, 351, 797, 394, 3
+      - 1, 662, 356, 682, 389, 4
+      - 0, 451, 335, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003909.jpg, 960, 540
+  - annotations:
+      - 0, 451, 340, 490, 356, 10
+      - 1, 768, 351, 816, 400, 3
+      - 1, 672, 351, 701, 389, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003912.jpg, 960, 540
+  - annotations:
+      - 0, 461, 335, 490, 356, 10
+      - 1, 787, 356, 826, 394, 3
+      - 1, 672, 351, 720, 389, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003916.jpg, 960, 540
+  - annotations:
+      - 1, 682, 356, 739, 394, 4
+      - 0, 461, 335, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003919.jpg, 960, 540
+  - annotations:
+      - 1, 701, 351, 758, 394, 4
+      - 0, 451, 335, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003922.jpg, 960, 540
+  - annotations:
+      - 1, 710, 356, 778, 394, 4
+      - 0, 461, 335, 490, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003924.jpg, 960, 540
+  - annotations:
+      - 1, 749, 351, 806, 400, 4
+      - 0, 461, 340, 490, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003928.jpg, 960, 540
+  - annotations:
+      - 0, 547, 329, 586, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003931.jpg, 960, 540
+  - annotations:
+      - 0, 701, 329, 739, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003934.jpg, 960, 540
+  - annotations:
+      - 0, 778, 329, 826, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003937.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003940.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003943.jpg, 960, 540
+  - annotations:
+      - 0, 806, 329, 845, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003946.jpg, 960, 540
+  - annotations:
+      - 0, 768, 340, 806, 367, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003949.jpg, 960, 540
+  - annotations:
+      - 0, 643, 351, 682, 373, 10
+      - 1, 874, 378, 912, 410, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003952.jpg, 960, 540
+  - annotations:
+      - 1, 787, 373, 816, 410, 3
+      - 0, 547, 351, 586, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003955.jpg, 960, 540
+  - annotations:
+      - 1, 768, 373, 806, 416, 3
+      - 0, 518, 351, 557, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003958.jpg, 960, 540
+  - annotations:
+      - 0, 509, 356, 538, 373, 10
+      - 1, 758, 373, 816, 416, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003961.jpg, 960, 540
+  - annotations:
+      - 0, 499, 356, 528, 378, 10
+      - 1, 778, 378, 826, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003964.jpg, 960, 540
+  - annotations:
+      - 1, 787, 378, 845, 416, 3
+      - 0, 499, 356, 538, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003967.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 378, 10
+      - 1, 701, 373, 730, 416, 3
+      - 1, 816, 383, 864, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003970.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 701, 373, 749, 410, 3
+      - 1, 845, 378, 893, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003973.jpg, 960, 540
+  - annotations:
+      - 1, 730, 378, 787, 416, 3
+      - 0, 490, 351, 528, 373, 10
+      - 1, 874, 383, 912, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003976.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 758, 383, 816, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003979.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 806, 389, 864, 432, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003982.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 373, 10
+      - 1, 826, 383, 893, 437, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003984.jpg, 960, 540
+  - annotations:
+      - 1, 749, 373, 768, 421, 4
+      - 0, 499, 351, 528, 373, 10
+      - 1, 883, 383, 941, 443, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003987.jpg, 960, 540
+  - annotations:
+      - 1, 768, 378, 816, 427, 4
+      - 0, 490, 351, 528, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003991.jpg, 960, 540
+  - annotations:
+      - 1, 787, 389, 845, 432, 4
+      - 0, 490, 351, 528, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003994.jpg, 960, 540
+  - annotations:
+      - 0, 490, 351, 528, 383, 10
+      - 1, 806, 394, 874, 454, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003997.jpg, 960, 540
+  - annotations:
+      - 0, 490, 356, 528, 383, 10
+      - 3, 826, 400, 893, 459, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0003999.jpg, 960, 540
+  - annotations:
+      - 0, 480, 351, 518, 383, 10
+      - 1, 854, 400, 931, 459, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004003.jpg, 960, 540
+  - annotations:
+      - 0, 470, 324, 509, 356, 10
+      - 1, 864, 373, 941, 427, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004006.jpg, 960, 540
+  - annotations:
+      - 1, 720, 324, 758, 378, 4
+      - 0, 461, 302, 499, 324, 10
+      - 1, 874, 340, 941, 400, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004009.jpg, 960, 540
+  - annotations:
+      - 0, 442, 194, 490, 227, 10
+      - 1, 710, 221, 768, 281, 4
+      - 1, 893, 238, 941, 286, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004012.jpg, 960, 540
+  - annotations:
+      - 1, 739, 200, 806, 248, 4
+      - 0, 442, 173, 480, 194, 10
+      - 3, 931, 211, 960, 259, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004016.jpg, 960, 540
+  - annotations:
+      - 0, 451, 157, 490, 184, 10
+      - 1, 758, 189, 835, 238, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004018.jpg, 960, 540
+  - annotations:
+      - 1, 797, 151, 864, 205, 4
+      - 0, 461, 124, 499, 151, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004021.jpg, 960, 540
+  - annotations:
+      - 0, 461, 108, 499, 135, 10
+      - 1, 854, 135, 931, 200, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004025.jpg, 960, 540
+  - annotations:
+      - 1, 730, 130, 768, 184, 3
+      - 0, 470, 113, 509, 140, 10
+      - 1, 883, 146, 960, 205, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004027.jpg, 960, 540
+  - annotations:
+      - 1, 730, 130, 778, 184, 3
+      - 0, 470, 113, 509, 140, 10
+      - 1, 912, 140, 960, 200, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004030.jpg, 960, 540
+  - annotations:
+      - 0, 442, 189, 490, 211, 10
+      - 1, 720, 216, 778, 259, 4
+      - 1, 902, 221, 950, 275, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004013.jpg, 960, 540
+  - annotations:
+      - 0, 442, 173, 490, 200, 10
+      - 1, 730, 194, 797, 243, 4
+      - 1, 922, 211, 950, 254, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004015.jpg, 960, 540
+  - annotations:
+      - 1, 768, 184, 835, 232, 4
+      - 0, 451, 151, 490, 178, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004019.jpg, 960, 540
+  - annotations:
+      - 0, 461, 113, 499, 146, 10
+      - 1, 806, 151, 874, 200, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004022.jpg, 960, 540
+  - annotations:
+      - 0, 461, 108, 499, 135, 10
+      - 1, 845, 146, 912, 194, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004024.jpg, 960, 540
+  - annotations:
+      - 1, 730, 130, 768, 178, 3
+      - 1, 893, 146, 960, 205, 4
+      - 0, 461, 108, 499, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004028.jpg, 960, 540
+  - annotations:
+      - 1, 739, 135, 797, 194, 3
+      - 0, 461, 113, 499, 140, 10
+      - 1, 922, 146, 960, 200, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004031.jpg, 960, 540
+  - annotations:
+      - 1, 758, 140, 816, 194, 3
+      - 0, 461, 113, 509, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004034.jpg, 960, 540
+  - annotations:
+      - 1, 778, 146, 845, 205, 3
+      - 0, 461, 113, 509, 146, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004037.jpg, 960, 540
+  - annotations:
+      - 1, 797, 157, 874, 205, 3
+      - 0, 470, 124, 509, 151, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004040.jpg, 960, 540
+  - annotations:
+      - 1, 835, 162, 912, 221, 3
+      - 0, 470, 130, 509, 157, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004043.jpg, 960, 540
+  - annotations:
+      - 1, 854, 173, 912, 238, 3
+      - 0, 461, 140, 499, 167, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004046.jpg, 960, 540
+  - annotations:
+      - 1, 720, 178, 768, 221, 3
+      - 0, 461, 146, 509, 178, 10
+      - 1, 893, 184, 960, 243, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004049.jpg, 960, 540
+  - annotations:
+      - 1, 730, 184, 778, 243, 3
+      - 0, 470, 157, 509, 189, 10
+      - 1, 912, 194, 960, 259, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004051.jpg, 960, 540
+  - annotations:
+      - 1, 758, 265, 816, 324, 3
+      - 0, 470, 232, 518, 265, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004054.jpg, 960, 540
+  - annotations:
+      - 1, 797, 346, 864, 400, 3
+      - 0, 480, 297, 518, 324, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004058.jpg, 960, 540
+  - annotations:
+      - 1, 826, 351, 902, 410, 3
+      - 0, 480, 313, 518, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004061.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+      - 1, 874, 362, 960, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004065.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+      - 1, 749, 340, 787, 400, 4
+      - 1, 912, 356, 960, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004068.jpg, 960, 540
+  - annotations:
+      - 1, 758, 340, 806, 400, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004071.jpg, 960, 540
+  - annotations:
+      - 1, 778, 346, 845, 410, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004074.jpg, 960, 540
+  - annotations:
+      - 0, 480, 313, 528, 346, 10
+      - 1, 787, 346, 874, 410, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004076.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 816, 356, 902, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004079.jpg, 960, 540
+  - annotations:
+      - 1, 835, 356, 902, 416, 4
+      - 0, 485, 316, 523, 345, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004082.jpg, 960, 540
+  - annotations:
+      - 1, 835, 356, 912, 410, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004086.jpg, 960, 540
+  - annotations:
+      - 1, 845, 362, 912, 410, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004089.jpg, 960, 540
+  - annotations:
+      - 1, 854, 356, 922, 416, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004092.jpg, 960, 540
+  - annotations:
+      - 1, 874, 362, 941, 421, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004095.jpg, 960, 540
+  - annotations:
+      - 1, 748, 347, 773, 391, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004097.jpg, 960, 540
+  - annotations:
+      - 1, 749, 346, 806, 394, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004100.jpg, 960, 540
+  - annotations:
+      - 1, 778, 351, 854, 400, 4
+      - 0, 490, 319, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004104.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+      - 1, 797, 351, 874, 421, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004107.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 816, 351, 893, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004110.jpg, 960, 540
+  - annotations:
+      - 1, 826, 356, 893, 416, 4
+      - 0, 490, 319, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004113.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004116.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004119.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004122.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004124.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004129.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004133.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004136.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004139.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004142.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004144.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004147.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004149.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004152.jpg, 960, 540
+  - annotations:
+      - 0, 461, 113, 499, 140, 10
+      - 1, 835, 140, 902, 194, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004023.jpg, 960, 540
+  - annotations:
+      - 0, 461, 113, 499, 135, 10
+      - 1, 874, 146, 941, 200, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004026.jpg, 960, 540
+  - annotations:
+      - 1, 730, 135, 778, 184, 3
+      - 1, 902, 140, 960, 200, 4
+      - 0, 461, 113, 499, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004029.jpg, 960, 540
+  - annotations:
+      - 1, 739, 130, 806, 189, 3
+      - 0, 461, 108, 509, 135, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004032.jpg, 960, 540
+  - annotations:
+      - 1, 768, 140, 835, 194, 3
+      - 0, 461, 113, 509, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004035.jpg, 960, 540
+  - annotations:
+      - 1, 778, 151, 845, 211, 3
+      - 0, 470, 119, 509, 146, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004038.jpg, 960, 540
+  - annotations:
+      - 1, 806, 157, 883, 211, 3
+      - 0, 470, 124, 509, 146, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004041.jpg, 960, 540
+  - annotations:
+      - 1, 835, 167, 902, 227, 3
+      - 0, 470, 130, 509, 162, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004044.jpg, 960, 540
+  - annotations:
+      - 1, 854, 173, 931, 232, 3
+      - 0, 470, 140, 509, 173, 10
+      - 1, 730, 157, 758, 211, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004047.jpg, 960, 540
+  - annotations:
+      - 0, 470, 184, 509, 216, 10
+      - 1, 739, 211, 797, 265, 3
+      - 1, 931, 221, 960, 281, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004052.jpg, 960, 540
+  - annotations:
+      - 1, 768, 286, 826, 340, 3
+      - 0, 480, 248, 518, 281, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004055.jpg, 960, 540
+  - annotations:
+      - 0, 480, 292, 518, 319, 10
+      - 1, 787, 329, 864, 389, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004057.jpg, 960, 540
+  - annotations:
+      - 1, 826, 351, 902, 410, 3
+      - 0, 490, 308, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004060.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 854, 356, 931, 416, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004063.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+      - 1, 883, 356, 960, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004066.jpg, 960, 540
+  - annotations:
+      - 1, 749, 346, 787, 394, 4
+      - 0, 490, 313, 528, 340, 10
+      - 1, 922, 362, 960, 421, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004069.jpg, 960, 540
+  - annotations:
+      - 1, 758, 340, 826, 400, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004072.jpg, 960, 540
+  - annotations:
+      - 1, 778, 356, 854, 405, 4
+      - 0, 490, 319, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004075.jpg, 960, 540
+  - annotations:
+      - 1, 806, 356, 893, 410, 4
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004078.jpg, 960, 540
+  - annotations:
+      - 1, 835, 356, 912, 421, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004081.jpg, 960, 540
+  - annotations:
+      - 1, 845, 362, 922, 410, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004084.jpg, 960, 540
+  - annotations:
+      - 1, 845, 351, 902, 410, 4
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004087.jpg, 960, 540
+  - annotations:
+      - 1, 845, 356, 912, 416, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004090.jpg, 960, 540
+  - annotations:
+      - 1, 864, 356, 922, 400, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004093.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 749, 351, 768, 383, 4
+      - 1, 874, 356, 950, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004096.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 758, 346, 787, 389, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004099.jpg, 960, 540
+  - annotations:
+      - 1, 768, 346, 826, 400, 4
+      - 0, 490, 319, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004102.jpg, 960, 540
+  - annotations:
+      - 1, 787, 351, 864, 400, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004105.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 806, 351, 883, 410, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004108.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+      - 1, 816, 351, 893, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004111.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004114.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004117.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004120.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004123.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004126.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004128.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004131.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004134.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004137.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004140.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004143.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004146.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004150.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004154.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004156.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004159.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 538, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004161.jpg, 960, 540
+  - annotations:
+      - 1, 749, 135, 816, 189, 3
+      - 0, 461, 108, 509, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004033.jpg, 960, 540
+  - annotations:
+      - 1, 778, 146, 835, 200, 3
+      - 0, 461, 113, 499, 140, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004036.jpg, 960, 540
+  - annotations:
+      - 1, 797, 151, 874, 205, 3
+      - 0, 470, 124, 509, 151, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004039.jpg, 960, 540
+  - annotations:
+      - 1, 826, 162, 902, 227, 3
+      - 0, 470, 130, 509, 157, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004042.jpg, 960, 540
+  - annotations:
+      - 0, 470, 135, 509, 162, 10
+      - 1, 845, 173, 922, 232, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004045.jpg, 960, 540
+  - annotations:
+      - 1, 720, 173, 758, 211, 3
+      - 0, 470, 146, 509, 173, 10
+      - 1, 883, 178, 941, 238, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004048.jpg, 960, 540
+  - annotations:
+      - 1, 730, 178, 778, 238, 3
+      - 0, 470, 157, 499, 184, 10
+      - 1, 902, 194, 960, 248, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004050.jpg, 960, 540
+  - annotations:
+      - 0, 470, 200, 509, 227, 10
+      - 1, 749, 227, 797, 286, 3
+      - 1, 941, 238, 970, 297, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004053.jpg, 960, 540
+  - annotations:
+      - 1, 787, 319, 854, 373, 3
+      - 0, 480, 275, 518, 302, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004056.jpg, 960, 540
+  - annotations:
+      - 1, 816, 351, 883, 405, 3
+      - 0, 480, 308, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004059.jpg, 960, 540
+  - annotations:
+      - 1, 845, 356, 922, 416, 3
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004062.jpg, 960, 540
+  - annotations:
+      - 1, 864, 362, 941, 421, 3
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004064.jpg, 960, 540
+  - annotations:
+      - 0, 490, 308, 528, 346, 10
+      - 1, 893, 356, 960, 427, 3
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004067.jpg, 960, 540
+  - annotations:
+      - 1, 749, 346, 797, 394, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004070.jpg, 960, 540
+  - annotations:
+      - 1, 768, 351, 826, 405, 4
+      - 0, 490, 319, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004073.jpg, 960, 540
+  - annotations:
+      - 1, 787, 356, 874, 410, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004077.jpg, 960, 540
+  - annotations:
+      - 1, 826, 351, 912, 416, 4
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004080.jpg, 960, 540
+  - annotations:
+      - 1, 845, 351, 912, 416, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004083.jpg, 960, 540
+  - annotations:
+      - 1, 845, 356, 902, 410, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004085.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 340, 10
+      - 1, 845, 351, 912, 410, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004088.jpg, 960, 540
+  - annotations:
+      - 1, 845, 362, 902, 405, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004091.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+      - 1, 864, 362, 941, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004094.jpg, 960, 540
+  - annotations:
+      - 1, 748, 347, 773, 391, 4
+      - 0, 490, 313, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004098.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+      - 1, 758, 351, 816, 400, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004101.jpg, 960, 540
+  - annotations:
+      - 1, 768, 351, 845, 400, 4
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004103.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 340, 10
+      - 1, 797, 351, 874, 405, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004106.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 806, 351, 893, 421, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004109.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 346, 10
+      - 1, 826, 356, 893, 416, 4
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004112.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004115.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004118.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004121.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004125.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004127.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004130.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004132.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 528, 340, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004135.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004138.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 528, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004141.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004145.jpg, 960, 540
+  - annotations:
+      - 0, 499, 319, 538, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004148.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004151.jpg, 960, 540
+  - annotations:
+      - 0, 499, 319, 538, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004153.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004157.jpg, 960, 540
+  - annotations:
+      - 0, 499, 319, 538, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004160.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004162.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 547, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004165.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 547, 362, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004168.jpg, 960, 540
+  - annotations:
+      - 0, 499, 319, 538, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004155.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 528, 346, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004158.jpg, 960, 540
+  - annotations:
+      - 0, 490, 313, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004163.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 547, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004166.jpg, 960, 540
+  - annotations:
+      - 0, 490, 324, 547, 367, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004169.jpg, 960, 540
+  - annotations:
+      - 0, 490, 329, 557, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004172.jpg, 960, 540
+  - annotations:
+      - 0, 490, 329, 547, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004175.jpg, 960, 540
+  - annotations:
+      - 0, 480, 329, 547, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004177.jpg, 960, 540
+  - annotations:
+      - 0, 470, 324, 538, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004181.jpg, 960, 540
+  - annotations:
+      - 0, 461, 324, 538, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004184.jpg, 960, 540
+  - annotations:
+      - 0, 461, 329, 538, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004186.jpg, 960, 540
+  - annotations:
+      - 0, 451, 329, 538, 405, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004190.jpg, 960, 540
+  - annotations:
+      - 0, 461, 335, 547, 410, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004193.jpg, 960, 540
+  - annotations:
+      - 0, 461, 329, 547, 416, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004195.jpg, 960, 540
+  - annotations:
+      - 0, 480, 308, 566, 389, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004199.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 538, 351, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004164.jpg, 960, 540
+  - annotations:
+      - 0, 490, 319, 547, 356, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004167.jpg, 960, 540
+  - annotations:
+      - 0, 490, 329, 547, 367, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004170.jpg, 960, 540
+  - annotations:
+      - 0, 499, 329, 557, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004173.jpg, 960, 540
+  - annotations:
+      - 0, 480, 329, 547, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004176.jpg, 960, 540
+  - annotations:
+      - 0, 470, 329, 547, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004179.jpg, 960, 540
+  - annotations:
+      - 0, 470, 329, 538, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004182.jpg, 960, 540
+  - annotations:
+      - 0, 461, 335, 538, 383, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004185.jpg, 960, 540
+  - annotations:
+      - 0, 451, 324, 538, 394, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004188.jpg, 960, 540
+  - annotations:
+      - 0, 451, 335, 538, 405, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004191.jpg, 960, 540
+  - annotations:
+      - 0, 461, 329, 538, 410, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004194.jpg, 960, 540
+  - annotations:
+      - 0, 461, 329, 557, 410, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004197.jpg, 960, 540
+  - annotations:
+      - 0, 490, 297, 586, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004200.jpg, 960, 540
+  - annotations:
+      - 0, 499, 324, 557, 367, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004171.jpg, 960, 540
+  - annotations:
+      - 0, 490, 329, 557, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004174.jpg, 960, 540
+  - annotations:
+      - 0, 480, 324, 547, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004178.jpg, 960, 540
+  - annotations:
+      - 0, 470, 329, 538, 373, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004180.jpg, 960, 540
+  - annotations:
+      - 0, 461, 329, 547, 378, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004183.jpg, 960, 540
+  - annotations:
+      - 0, 451, 335, 538, 389, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004187.jpg, 960, 540
+  - annotations:
+      - 0, 451, 324, 538, 400, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004189.jpg, 960, 540
+  - annotations:
+      - 0, 451, 329, 538, 405, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004192.jpg, 960, 540
+  - annotations:
+      - 0, 461, 335, 538, 416, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004196.jpg, 960, 540
+  - annotations:
+      - 0, 470, 313, 566, 394, 10
+    meta: 23sp_pre_comp_scrim/standard_5/23sp_pre_comp_scrim__standard_5__14/image-0004198.jpg, 960, 540
+supported_label_types:
+  - robot_plate_blue
+  - robot_plate_red
+  - robot_chassis_blue

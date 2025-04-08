@@ -1,0 +1,979 @@
+images:
+  - annotations:
+      - 1, 480, 342, 499, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002604.jpg, 960, 540
+  - annotations:
+      - 1, 490, 335, 518, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002617.jpg, 960, 540
+  - annotations:
+      - 1, 470, 329, 499, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002646.jpg, 960, 540
+  - annotations:
+      - 1, 477, 338, 497, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002580.jpg, 960, 540
+  - annotations:
+      - 1, 478, 331, 504, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002457.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002645.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002698.jpg, 960, 540
+  - annotations:
+      - 0, 861, 430, 937, 471, 1
+      - 1, 334, 221, 359, 243, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002445.jpg, 960, 540
+  - annotations:
+      - 1, 470, 329, 499, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002649.jpg, 960, 540
+  - annotations:
+      - 1, 482, 336, 502, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002593.jpg, 960, 540
+  - annotations:
+      - 1, 320, 242, 339, 257, 0
+      - 0, 607, 384, 629, 412, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002403.jpg, 960, 540
+  - annotations:
+      - 1, 452, 329, 478, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002529.jpg, 960, 540
+  - annotations:
+      - 1, 457, 333, 479, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002555.jpg, 960, 540
+  - annotations:
+      - 1, 462, 328, 488, 348, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002516.jpg, 960, 540
+  - annotations:
+      - 1, 470, 324, 499, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002650.jpg, 960, 540
+  - annotations:
+      - 1, 499, 329, 528, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002655.jpg, 960, 540
+  - annotations:
+      - 1, 479, 340, 499, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002591.jpg, 960, 540
+  - annotations:
+      - 1, 319, 246, 338, 261, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002402.jpg, 960, 540
+  - annotations:
+      - 1, 284, 230, 302, 244, 0
+      - 0, 648, 387, 683, 418, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002420.jpg, 960, 540
+  - annotations:
+      - 1, 276, 223, 294, 237, 0
+      - 0, 623, 386, 672, 418, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002423.jpg, 960, 540
+  - annotations:
+      - 0, 667, 405, 728, 438, 1
+      - 1, 254, 205, 279, 227, 10
+      - 1, 858, 373, 887, 392, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002437.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002671.jpg, 960, 540
+  - annotations:
+      - 1, 456, 337, 482, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002538.jpg, 960, 540
+  - annotations:
+      - 1, 479, 337, 498, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002601.jpg, 960, 540
+  - annotations:
+      - 1, 478, 322, 502, 342, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002464.jpg, 960, 540
+  - annotations:
+      - 1, 480, 332, 508, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002496.jpg, 960, 540
+  - annotations:
+      - 1, 499, 335, 528, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002642.jpg, 960, 540
+  - annotations:
+      - 1, 461, 329, 490, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002651.jpg, 960, 540
+  - annotations:
+      - 1, 461, 335, 490, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002648.jpg, 960, 540
+  - annotations:
+      - 1, 456, 332, 482, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002534.jpg, 960, 540
+  - annotations:
+      - 1, 518, 329, 547, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002638.jpg, 960, 540
+  - annotations:
+      - 0, 619, 404, 666, 437, 1
+      - 1, 313, 245, 332, 260, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002410.jpg, 960, 540
+  - annotations:
+      - 0, 634, 383, 689, 416, 1
+      - 1, 277, 227, 295, 241, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002421.jpg, 960, 540
+  - annotations:
+      - 1, 458, 332, 484, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002536.jpg, 960, 540
+  - annotations:
+      - 1, 325, 245, 344, 262, 0
+      - 0, 610, 388, 636, 415, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002401.jpg, 960, 540
+  - annotations:
+      - 1, 322, 247, 341, 262, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002404.jpg, 960, 540
+  - annotations:
+      - 1, 492, 328, 517, 347, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002451.jpg, 960, 540
+  - annotations:
+      - 1, 454, 336, 476, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002547.jpg, 960, 540
+  - annotations:
+      - 1, 295, 238, 313, 252, 0
+      - 0, 597, 395, 636, 425, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002413.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002679.jpg, 960, 540
+  - annotations:
+      - 1, 470, 324, 499, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002656.jpg, 960, 540
+  - annotations:
+      - 1, 458, 331, 480, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002559.jpg, 960, 540
+  - annotations:
+      - 1, 490, 332, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002480.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 518, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002619.jpg, 960, 540
+  - annotations:
+      - 1, 457, 333, 483, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002532.jpg, 960, 540
+  - annotations:
+      - 1, 480, 319, 509, 340, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002663.jpg, 960, 540
+  - annotations:
+      - 1, 499, 346, 528, 367, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002628.jpg, 960, 540
+  - annotations:
+      - 1, 470, 329, 499, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002653.jpg, 960, 540
+  - annotations:
+      - 1, 471, 336, 491, 353, 10
+      - 1, 255, 448, 289, 463, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002578.jpg, 960, 540
+  - annotations:
+      - 1, 479, 340, 498, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002597.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 509, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002612.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002678.jpg, 960, 540
+  - annotations:
+      - 1, 509, 335, 538, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002633.jpg, 960, 540
+  - annotations:
+      - 1, 484, 332, 508, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002463.jpg, 960, 540
+  - annotations:
+      - 1, 477, 336, 505, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002489.jpg, 960, 540
+  - annotations:
+      - 1, 458, 336, 484, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002519.jpg, 960, 540
+  - annotations:
+      - 1, 473, 331, 501, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002493.jpg, 960, 540
+  - annotations:
+      - 1, 476, 343, 495, 361, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002598.jpg, 960, 540
+  - annotations:
+      - 1, 915, 384, 935, 403, 0
+      - 0, 652, 406, 709, 439, 1
+      - 1, 250, 197, 275, 219, 10
+      - 0, 765, 392, 792, 425, 1
+      - 1, 866, 376, 884, 390, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002439.jpg, 960, 540
+  - annotations:
+      - 1, 470, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002675.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002673.jpg, 960, 540
+  - annotations:
+      - 1, 470, 328, 496, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002460.jpg, 960, 540
+  - annotations:
+      - 1, 473, 332, 502, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002502.jpg, 960, 540
+  - annotations:
+      - 1, 456, 335, 478, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002550.jpg, 960, 540
+  - annotations:
+      - 1, 486, 330, 512, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002469.jpg, 960, 540
+  - annotations:
+      - 1, 499, 329, 528, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002660.jpg, 960, 540
+  - annotations:
+      - 1, 478, 341, 498, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002588.jpg, 960, 540
+  - annotations:
+      - 0, 623, 389, 653, 414, 1
+      - 1, 268, 213, 289, 235, 10
+      - 0, 703, 404, 757, 441, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002430.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002695.jpg, 960, 540
+  - annotations:
+      - 1, 478, 335, 503, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002465.jpg, 960, 540
+  - annotations:
+      - 1, 495, 332, 523, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002476.jpg, 960, 540
+  - annotations:
+      - 1, 490, 329, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002686.jpg, 960, 540
+  - annotations:
+      - 1, 477, 338, 505, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002500.jpg, 960, 540
+  - annotations:
+      - 1, 499, 340, 538, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002631.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002687.jpg, 960, 540
+  - annotations:
+      - 1, 457, 335, 479, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002558.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002666.jpg, 960, 540
+  - annotations:
+      - 1, 465, 335, 491, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002512.jpg, 960, 540
+  - annotations:
+      - 1, 482, 337, 501, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002599.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002690.jpg, 960, 540
+  - annotations:
+      - 1, 458, 334, 484, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002514.jpg, 960, 540
+  - annotations:
+      - 1, 468, 335, 497, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002504.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002616.jpg, 960, 540
+  - annotations:
+      - 1, 468, 327, 497, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002509.jpg, 960, 540
+  - annotations:
+      - 1, 244, 191, 269, 213, 10
+      - 1, 918, 374, 938, 393, 1
+      - 0, 651, 395, 702, 429, 1
+      - 0, 765, 386, 804, 419, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002440.jpg, 960, 540
+  - annotations:
+      - 3, 499, 329, 528, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002654.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002694.jpg, 960, 540
+  - annotations:
+      - 1, 461, 329, 490, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002647.jpg, 960, 540
+  - annotations:
+      - 1, 470, 340, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002613.jpg, 960, 540
+  - annotations:
+      - 1, 490, 324, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002667.jpg, 960, 540
+  - annotations:
+      - 1, 447, 294, 473, 316, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002453.jpg, 960, 540
+  - annotations:
+      - 1, 458, 332, 480, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002565.jpg, 960, 540
+  - annotations:
+      - 1, 477, 334, 497, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002579.jpg, 960, 540
+  - annotations:
+      - 1, 460, 336, 482, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002566.jpg, 960, 540
+  - annotations:
+      - 1, 455, 334, 481, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002520.jpg, 960, 540
+  - annotations:
+      - 1, 499, 346, 528, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002630.jpg, 960, 540
+  - annotations:
+      - 1, 290, 230, 309, 245, 0
+      - 0, 588, 395, 622, 427, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002412.jpg, 960, 540
+  - annotations:
+      - 1, 458, 331, 480, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002560.jpg, 960, 540
+  - annotations:
+      - 0, 664, 400, 725, 433, 1
+      - 1, 255, 201, 280, 223, 10
+      - 1, 867, 367, 891, 385, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002438.jpg, 960, 540
+  - annotations:
+      - 1, 478, 334, 498, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002583.jpg, 960, 540
+  - annotations:
+      - 1, 474, 334, 500, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002459.jpg, 960, 540
+  - annotations:
+      - 1, 467, 331, 496, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002511.jpg, 960, 540
+  - annotations:
+      - 1, 478, 333, 504, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002495.jpg, 960, 540
+  - annotations:
+      - 1, 474, 340, 494, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002581.jpg, 960, 540
+  - annotations:
+      - 1, 509, 340, 538, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002632.jpg, 960, 540
+  - annotations:
+      - 1, 479, 331, 507, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002498.jpg, 960, 540
+  - annotations:
+      - 1, 456, 332, 482, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002523.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002643.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002699.jpg, 960, 540
+  - annotations:
+      - 1, 455, 338, 477, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002551.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002685.jpg, 960, 540
+  - annotations:
+      - 1, 454, 332, 476, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002552.jpg, 960, 540
+  - annotations:
+      - 0, 621, 387, 663, 413, 1
+      - 1, 271, 218, 291, 239, 10
+      - 0, 717, 404, 758, 433, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002429.jpg, 960, 540
+  - annotations:
+      - 1, 455, 341, 477, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002546.jpg, 960, 540
+  - annotations:
+      - 1, 319, 247, 338, 262, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002408.jpg, 960, 540
+  - annotations:
+      - 1, 454, 332, 480, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002533.jpg, 960, 540
+  - annotations:
+      - 1, 458, 334, 484, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002521.jpg, 960, 540
+  - annotations:
+      - 1, 456, 332, 478, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002562.jpg, 960, 540
+  - annotations:
+      - 1, 285, 231, 303, 245, 0
+      - 0, 590, 391, 607, 421, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002416.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002691.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002622.jpg, 960, 540
+  - annotations:
+      - 1, 450, 332, 476, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002526.jpg, 960, 540
+  - annotations:
+      - 1, 475, 335, 503, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002484.jpg, 960, 540
+  - annotations:
+      - 1, 470, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002672.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 509, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002624.jpg, 960, 540
+  - annotations:
+      - 1, 509, 335, 538, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002635.jpg, 960, 540
+  - annotations:
+      - 1, 482, 338, 501, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002602.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002674.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002682.jpg, 960, 540
+  - annotations:
+      - 1, 492, 331, 520, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002482.jpg, 960, 540
+  - annotations:
+      - 1, 478, 342, 497, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002606.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002696.jpg, 960, 540
+  - annotations:
+      - 1, 479, 312, 504, 331, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002450.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002609.jpg, 960, 540
+  - annotations:
+      - 1, 251, 204, 274, 222, 10
+      - 0, 663, 404, 724, 437, 1
+      - 1, 860, 370, 889, 389, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002436.jpg, 960, 540
+  - annotations:
+      - 0, 909, 430, 960, 470, 1
+      - 1, 376, 233, 404, 249, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002447.jpg, 960, 540
+  - annotations:
+      - 1, 454, 339, 476, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002545.jpg, 960, 540
+  - annotations:
+      - 1, 488, 331, 514, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002466.jpg, 960, 540
+  - annotations:
+      - 1, 470, 324, 499, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002652.jpg, 960, 540
+  - annotations:
+      - 1, 477, 333, 505, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002499.jpg, 960, 540
+  - annotations:
+      - 1, 491, 339, 519, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002485.jpg, 960, 540
+  - annotations:
+      - 1, 480, 346, 518, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002621.jpg, 960, 540
+  - annotations:
+      - 1, 473, 328, 499, 347, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002458.jpg, 960, 540
+  - annotations:
+      - 1, 271, 219, 289, 233, 0
+      - 0, 710, 404, 759, 440, 1
+      - 0, 623, 386, 656, 414, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002427.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002670.jpg, 960, 540
+  - annotations:
+      - 0, 833, 418, 908, 459, 1
+      - 1, 311, 215, 339, 231, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002448.jpg, 960, 540
+  - annotations:
+      - 1, 456, 335, 478, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002549.jpg, 960, 540
+  - annotations:
+      - 1, 490, 338, 518, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002481.jpg, 960, 540
+  - annotations:
+      - 1, 317, 245, 336, 260, 0
+      - 0, 629, 403, 670, 439, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002409.jpg, 960, 540
+  - annotations:
+      - 1, 260, 207, 283, 225, 10
+      - 0, 681, 407, 742, 440, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002434.jpg, 960, 540
+  - annotations:
+      - 1, 491, 335, 519, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002478.jpg, 960, 540
+  - annotations:
+      - 1, 484, 336, 503, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002605.jpg, 960, 540
+  - annotations:
+      - 1, 456, 330, 478, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002563.jpg, 960, 540
+  - annotations:
+      - 1, 463, 339, 483, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002571.jpg, 960, 540
+  - annotations:
+      - 1, 459, 330, 485, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002518.jpg, 960, 540
+  - annotations:
+      - 1, 509, 329, 538, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002634.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002607.jpg, 960, 540
+  - annotations:
+      - 1, 465, 340, 485, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002570.jpg, 960, 540
+  - annotations:
+      - 1, 490, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002626.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 500, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002589.jpg, 960, 540
+  - annotations:
+      - 1, 466, 335, 492, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002517.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002681.jpg, 960, 540
+  - annotations:
+      - 1, 457, 340, 479, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002543.jpg, 960, 540
+  - annotations:
+      - 1, 471, 336, 491, 353, 10
+      - 1, 251, 447, 285, 462, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002576.jpg, 960, 540
+  - annotations:
+      - 1, 460, 330, 482, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002564.jpg, 960, 540
+  - annotations:
+      - 1, 466, 333, 495, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002510.jpg, 960, 540
+  - annotations:
+      - 1, 492, 330, 520, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002477.jpg, 960, 540
+  - annotations:
+      - 1, 453, 342, 475, 359, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002548.jpg, 960, 540
+  - annotations:
+      - 1, 457, 336, 483, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002537.jpg, 960, 540
+  - annotations:
+      - 1, 393, 235, 418, 254, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002449.jpg, 960, 540
+  - annotations:
+      - 1, 477, 334, 505, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002492.jpg, 960, 540
+  - annotations:
+      - 1, 473, 333, 497, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002462.jpg, 960, 540
+  - annotations:
+      - 0, 650, 404, 705, 438, 1
+      - 1, 913, 381, 933, 400, 1
+      - 1, 242, 199, 267, 221, 10
+      - 0, 760, 392, 796, 426, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002442.jpg, 960, 540
+  - annotations:
+      - 1, 490, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002620.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002684.jpg, 960, 540
+  - annotations:
+      - 1, 470, 338, 490, 355, 10
+      - 1, 253, 450, 287, 465, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002577.jpg, 960, 540
+  - annotations:
+      - 1, 473, 334, 501, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002494.jpg, 960, 540
+  - annotations:
+      - 1, 499, 335, 528, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002629.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002661.jpg, 960, 540
+  - annotations:
+      - 1, 456, 342, 478, 359, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002542.jpg, 960, 540
+  - annotations:
+      - 1, 480, 319, 509, 340, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002668.jpg, 960, 540
+  - annotations:
+      - 0, 621, 387, 660, 414, 1
+      - 1, 271, 219, 290, 236, 10
+      - 0, 715, 404, 759, 434, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002428.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002688.jpg, 960, 540
+  - annotations:
+      - 1, 479, 341, 498, 359, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002600.jpg, 960, 540
+  - annotations:
+      - 1, 258, 192, 283, 214, 10
+      - 1, 941, 387, 959, 402, 1
+      - 0, 678, 407, 707, 442, 1
+      - 0, 771, 398, 834, 430, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002444.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 518, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002625.jpg, 960, 540
+  - annotations:
+      - 1, 490, 329, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002680.jpg, 960, 540
+  - annotations:
+      - 1, 473, 340, 493, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002582.jpg, 960, 540
+  - annotations:
+      - 1, 457, 333, 479, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002568.jpg, 960, 540
+  - annotations:
+      - 1, 490, 319, 518, 340, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002669.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002677.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002676.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002610.jpg, 960, 540
+  - annotations:
+      - 1, 322, 244, 341, 259, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002406.jpg, 960, 540
+  - annotations:
+      - 1, 457, 340, 483, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002541.jpg, 960, 540
+  - annotations:
+      - 1, 466, 334, 495, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002506.jpg, 960, 540
+  - annotations:
+      - 1, 499, 335, 528, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002644.jpg, 960, 540
+  - annotations:
+      - 1, 497, 326, 523, 345, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002473.jpg, 960, 540
+  - annotations:
+      - 1, 306, 246, 325, 261, 0
+      - 0, 609, 404, 658, 438, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002411.jpg, 960, 540
+  - annotations:
+      - 1, 459, 333, 481, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002569.jpg, 960, 540
+  - annotations:
+      - 1, 452, 331, 478, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002527.jpg, 960, 540
+  - annotations:
+      - 1, 490, 329, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002640.jpg, 960, 540
+  - annotations:
+      - 1, 499, 335, 528, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002627.jpg, 960, 540
+  - annotations:
+      - 1, 318, 249, 337, 264, 0
+      - 0, 632, 407, 669, 440, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002407.jpg, 960, 540
+  - annotations:
+      - 1, 278, 225, 296, 239, 0
+      - 0, 626, 389, 675, 421, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002424.jpg, 960, 540
+  - annotations:
+      - 1, 454, 335, 480, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002524.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002693.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 528, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002639.jpg, 960, 540
+  - annotations:
+      - 1, 280, 228, 298, 242, 0
+      - 0, 633, 382, 688, 415, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002422.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 515, 359, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002452.jpg, 960, 540
+  - annotations:
+      - 1, 468, 335, 494, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002513.jpg, 960, 540
+  - annotations:
+      - 1, 491, 330, 519, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002475.jpg, 960, 540
+  - annotations:
+      - 1, 490, 338, 518, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002479.jpg, 960, 540
+  - annotations:
+      - 1, 490, 324, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002662.jpg, 960, 540
+  - annotations:
+      - 1, 461, 334, 487, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002456.jpg, 960, 540
+  - annotations:
+      - 1, 493, 332, 519, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002470.jpg, 960, 540
+  - annotations:
+      - 1, 278, 229, 296, 243, 0
+      - 0, 638, 386, 688, 418, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002419.jpg, 960, 540
+  - annotations:
+      - 1, 476, 331, 505, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002491.jpg, 960, 540
+  - annotations:
+      - 1, 468, 336, 488, 353, 10
+      - 1, 249, 449, 283, 464, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002574.jpg, 960, 540
+  - annotations:
+      - 1, 287, 236, 305, 250, 0
+      - 0, 586, 401, 614, 430, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002415.jpg, 960, 540
+  - annotations:
+      - 1, 470, 333, 490, 350, 10
+      - 1, 254, 446, 288, 461, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002575.jpg, 960, 540
+  - annotations:
+      - 0, 586, 398, 608, 428, 1
+      - 1, 282, 233, 300, 247, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002418.jpg, 960, 540
+  - annotations:
+      - 1, 458, 331, 480, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002556.jpg, 960, 540
+  - annotations:
+      - 1, 479, 340, 499, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002592.jpg, 960, 540
+  - annotations:
+      - 1, 468, 329, 497, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002508.jpg, 960, 540
+  - annotations:
+      - 1, 509, 335, 538, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002641.jpg, 960, 540
+  - annotations:
+      - 1, 453, 328, 479, 348, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002528.jpg, 960, 540
+  - annotations:
+      - 1, 473, 332, 501, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002501.jpg, 960, 540
+  - annotations:
+      - 1, 457, 336, 479, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002553.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002659.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 509, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002697.jpg, 960, 540
+  - annotations:
+      - 1, 282, 229, 300, 243, 0
+      - 0, 646, 388, 686, 419, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002417.jpg, 960, 540
+  - annotations:
+      - 1, 294, 245, 312, 259, 0
+      - 0, 598, 403, 637, 433, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002414.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002615.jpg, 960, 540
+  - annotations:
+      - 0, 692, 403, 753, 436, 1
+      - 1, 265, 206, 288, 224, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002432.jpg, 960, 540
+  - annotations:
+      - 1, 478, 335, 497, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002603.jpg, 960, 540
+  - annotations:
+      - 0, 697, 402, 753, 436, 1
+      - 0, 625, 384, 648, 411, 1
+      - 1, 262, 209, 283, 231, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002431.jpg, 960, 540
+  - annotations:
+      - 1, 490, 340, 518, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002623.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002689.jpg, 960, 540
+  - annotations:
+      - 1, 481, 328, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002497.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 506, 343, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002467.jpg, 960, 540
+  - annotations:
+      - 1, 263, 209, 286, 227, 10
+      - 0, 693, 400, 754, 433, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002433.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 509, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002692.jpg, 960, 540
+  - annotations:
+      - 1, 494, 334, 520, 353, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002474.jpg, 960, 540
+  - annotations:
+      - 1, 493, 335, 521, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002483.jpg, 960, 540
+  - annotations:
+      - 1, 457, 340, 479, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002544.jpg, 960, 540
+  - annotations:
+      - 1, 480, 329, 518, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002683.jpg, 960, 540
+  - annotations:
+      - 1, 917, 387, 943, 401, 1
+      - 0, 654, 404, 694, 438, 1
+      - 1, 241, 192, 266, 214, 10
+      - 0, 760, 398, 812, 429, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002443.jpg, 960, 540
+  - annotations:
+      - 1, 473, 335, 501, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002490.jpg, 960, 540
+  - annotations:
+      - 1, 478, 342, 498, 359, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002586.jpg, 960, 540
+  - annotations:
+      - 1, 454, 336, 476, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002554.jpg, 960, 540
+  - annotations:
+      - 1, 461, 337, 487, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002455.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002657.jpg, 960, 540
+  - annotations:
+      - 1, 490, 324, 518, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002665.jpg, 960, 540
+  - annotations:
+      - 1, 477, 323, 503, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002461.jpg, 960, 540
+  - annotations:
+      - 0, 676, 402, 737, 435, 1
+      - 1, 862, 371, 894, 388, 1
+      - 1, 260, 204, 283, 222, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002435.jpg, 960, 540
+  - annotations:
+      - 1, 475, 336, 503, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002487.jpg, 960, 540
+  - annotations:
+      - 1, 473, 334, 493, 351, 10
+      - 1, 257, 448, 291, 463, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002572.jpg, 960, 540
+  - annotations:
+      - 1, 456, 334, 482, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002539.jpg, 960, 540
+  - annotations:
+      - 1, 470, 335, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002611.jpg, 960, 540
+  - annotations:
+      - 1, 481, 346, 501, 363, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002584.jpg, 960, 540
+  - annotations:
+      - 1, 450, 327, 476, 347, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002530.jpg, 960, 540
+  - annotations:
+      - 1, 471, 333, 500, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002505.jpg, 960, 540
+  - annotations:
+      - 1, 480, 340, 509, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002614.jpg, 960, 540
+  - annotations:
+      - 1, 518, 335, 547, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002637.jpg, 960, 540
+  - annotations:
+      - 1, 455, 330, 481, 350, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002531.jpg, 960, 540
+  - annotations:
+      - 1, 480, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002618.jpg, 960, 540
+  - annotations:
+      - 1, 453, 332, 479, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002525.jpg, 960, 540
+  - annotations:
+      - 1, 488, 330, 514, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002471.jpg, 960, 540
+  - annotations:
+      - 1, 491, 332, 519, 351, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002486.jpg, 960, 540
+  - annotations:
+      - 1, 461, 335, 499, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002700.jpg, 960, 540
+  - annotations:
+      - 1, 454, 335, 476, 357, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002557.jpg, 960, 540
+  - annotations:
+      - 1, 451, 334, 477, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002535.jpg, 960, 540
+  - annotations:
+      - 0, 781, 396, 852, 439, 1
+      - 1, 267, 196, 292, 218, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002446.jpg, 960, 540
+  - annotations:
+      - 1, 479, 343, 499, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002587.jpg, 960, 540
+  - annotations:
+      - 0, 632, 386, 683, 415, 1
+      - 1, 281, 225, 299, 239, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002425.jpg, 960, 540
+  - annotations:
+      - 1, 478, 339, 498, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002590.jpg, 960, 540
+  - annotations:
+      - 1, 479, 336, 498, 354, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002596.jpg, 960, 540
+  - annotations:
+      - 1, 463, 332, 483, 349, 10
+      - 1, 245, 443, 279, 458, 9
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002573.jpg, 960, 540
+  - annotations:
+      - 1, 458, 329, 484, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002522.jpg, 960, 540
+  - annotations:
+      - 1, 462, 335, 488, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002515.jpg, 960, 540
+  - annotations:
+      - 1, 475, 330, 504, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002503.jpg, 960, 540
+  - annotations:
+      - 1, 321, 242, 340, 257, 0
+      - 0, 611, 383, 627, 411, 0
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002405.jpg, 960, 540
+  - annotations:
+      - 1, 273, 219, 291, 233, 0
+      - 0, 621, 384, 665, 412, 1
+      - 0, 719, 402, 755, 430, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002426.jpg, 960, 540
+  - annotations:
+      - 1, 918, 376, 938, 395, 1
+      - 1, 244, 186, 269, 208, 10
+      - 0, 652, 398, 697, 431, 1
+      - 0, 760, 386, 806, 422, 1
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002441.jpg, 960, 540
+  - annotations:
+      - 1, 478, 341, 504, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002454.jpg, 960, 540
+  - annotations:
+      - 1, 492, 330, 518, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002468.jpg, 960, 540
+  - annotations:
+      - 1, 490, 326, 516, 345, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002472.jpg, 960, 540
+  - annotations:
+      - 1, 474, 333, 502, 352, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002488.jpg, 960, 540
+  - annotations:
+      - 1, 480, 324, 509, 346, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002664.jpg, 960, 540
+  - annotations:
+      - 1, 468, 327, 497, 349, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002507.jpg, 960, 540
+  - annotations:
+      - 1, 481, 345, 501, 362, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002585.jpg, 960, 540
+  - annotations:
+      - 1, 481, 341, 501, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002595.jpg, 960, 540
+  - annotations:
+      - 1, 456, 340, 482, 360, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002540.jpg, 960, 540
+  - annotations:
+      - 1, 480, 334, 508, 363, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002608.jpg, 960, 540
+  - annotations:
+      - 1, 490, 335, 518, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002658.jpg, 960, 540
+  - annotations:
+      - 1, 461, 333, 483, 355, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002561.jpg, 960, 540
+  - annotations:
+      - 1, 509, 335, 538, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002636.jpg, 960, 540
+  - annotations:
+      - 1, 458, 336, 480, 358, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002567.jpg, 960, 540
+  - annotations:
+      - 1, 482, 339, 502, 356, 10
+    meta: comp_2022/3v3_final_vs_tamu/standard/round_3/comp_2022__3v3_final_vs_tamu__standard__round_3__9/image-0002594.jpg, 960, 540
+supported_label_types:
+  - robot_plate_blue
+  - robot_plate_red
+  - robot_chassis_blue

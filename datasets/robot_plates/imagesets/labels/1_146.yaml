@@ -1,0 +1,987 @@
+images:
+  - annotations:
+      - 1, 534, 256, 595, 308, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001801.jpg, 960, 540
+  - annotations:
+      - 1, 534, 256, 595, 308, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001802.jpg, 960, 540
+  - annotations:
+      - 1, 535, 251, 597, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001803.jpg, 960, 540
+  - annotations:
+      - 1, 537, 251, 599, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001804.jpg, 960, 540
+  - annotations:
+      - 1, 543, 251, 606, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001806.jpg, 960, 540
+  - annotations:
+      - 1, 540, 250, 603, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001805.jpg, 960, 540
+  - annotations:
+      - 1, 544, 249, 607, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001807.jpg, 960, 540
+  - annotations:
+      - 1, 548, 251, 614, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001808.jpg, 960, 540
+  - annotations:
+      - 1, 552, 251, 618, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001809.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 621, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001810.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001812.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001813.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 621, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001811.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001814.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001815.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001816.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001817.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001819.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001818.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001820.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001821.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001822.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001823.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001824.jpg, 960, 540
+  - annotations:
+      - 1, 555, 254, 622, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001825.jpg, 960, 540
+  - annotations:
+      - 1, 551, 254, 618, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001826.jpg, 960, 540
+  - annotations:
+      - 1, 548, 254, 615, 306, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001827.jpg, 960, 540
+  - annotations:
+      - 1, 545, 252, 612, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001828.jpg, 960, 540
+  - annotations:
+      - 1, 540, 252, 607, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001830.jpg, 960, 540
+  - annotations:
+      - 1, 542, 252, 609, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001829.jpg, 960, 540
+  - annotations:
+      - 1, 537, 252, 604, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001831.jpg, 960, 540
+  - annotations:
+      - 1, 533, 252, 600, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001832.jpg, 960, 540
+  - annotations:
+      - 1, 530, 252, 597, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001833.jpg, 960, 540
+  - annotations:
+      - 1, 522, 253, 589, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001837.jpg, 960, 540
+  - annotations:
+      - 1, 519, 252, 586, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001840.jpg, 960, 540
+  - annotations:
+      - 1, 513, 252, 580, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001843.jpg, 960, 540
+  - annotations:
+      - 1, 503, 252, 570, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001846.jpg, 960, 540
+  - annotations:
+      - 1, 495, 252, 556, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001849.jpg, 960, 540
+  - annotations:
+      - 1, 485, 252, 547, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001852.jpg, 960, 540
+  - annotations:
+      - 1, 474, 254, 533, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001855.jpg, 960, 540
+  - annotations:
+      - 1, 458, 254, 516, 301, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001859.jpg, 960, 540
+  - annotations:
+      - 1, 451, 254, 511, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001861.jpg, 960, 540
+  - annotations:
+      - 1, 439, 255, 496, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001864.jpg, 960, 540
+  - annotations:
+      - 1, 430, 254, 492, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001868.jpg, 960, 540
+  - annotations:
+      - 1, 428, 254, 490, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001872.jpg, 960, 540
+  - annotations:
+      - 1, 417, 253, 479, 296, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001876.jpg, 960, 540
+  - annotations:
+      - 1, 410, 252, 470, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001880.jpg, 960, 540
+  - annotations:
+      - 1, 407, 252, 469, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001884.jpg, 960, 540
+  - annotations:
+      - 1, 407, 252, 469, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001886.jpg, 960, 540
+  - annotations:
+      - 1, 405, 252, 467, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001889.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001891.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001895.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001898.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001901.jpg, 960, 540
+  - annotations:
+      - 1, 405, 250, 467, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001904.jpg, 960, 540
+  - annotations:
+      - 1, 410, 250, 469, 299, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001908.jpg, 960, 540
+  - annotations:
+      - 1, 416, 252, 470, 294, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001911.jpg, 960, 540
+  - annotations:
+      - 1, 418, 250, 474, 291, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001914.jpg, 960, 540
+  - annotations:
+      - 1, 420, 248, 476, 289, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001917.jpg, 960, 540
+  - annotations:
+      - 1, 424, 246, 475, 287, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001920.jpg, 960, 540
+  - annotations:
+      - 1, 427, 244, 478, 282, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001924.jpg, 960, 540
+  - annotations:
+      - 1, 429, 241, 479, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001927.jpg, 960, 540
+  - annotations:
+      - 1, 428, 239, 478, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001930.jpg, 960, 540
+  - annotations:
+      - 1, 430, 240, 480, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001934.jpg, 960, 540
+  - annotations:
+      - 1, 430, 239, 480, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001937.jpg, 960, 540
+  - annotations:
+      - 1, 433, 239, 483, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001941.jpg, 960, 540
+  - annotations:
+      - 1, 433, 239, 483, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001943.jpg, 960, 540
+  - annotations:
+      - 1, 437, 240, 487, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001946.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001949.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001952.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001955.jpg, 960, 540
+  - annotations:
+      - 1, 439, 242, 488, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001958.jpg, 960, 540
+  - annotations:
+      - 1, 438, 242, 487, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001961.jpg, 960, 540
+  - annotations:
+      - 1, 435, 242, 484, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001964.jpg, 960, 540
+  - annotations:
+      - 1, 433, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001967.jpg, 960, 540
+  - annotations:
+      - 1, 431, 242, 481, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001970.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001973.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001976.jpg, 960, 540
+  - annotations:
+      - 1, 431, 243, 481, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001979.jpg, 960, 540
+  - annotations:
+      - 1, 526, 253, 593, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001834.jpg, 960, 540
+  - annotations:
+      - 1, 522, 253, 589, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001836.jpg, 960, 540
+  - annotations:
+      - 1, 519, 252, 586, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001839.jpg, 960, 540
+  - annotations:
+      - 1, 515, 252, 582, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001842.jpg, 960, 540
+  - annotations:
+      - 1, 507, 252, 574, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001845.jpg, 960, 540
+  - annotations:
+      - 1, 501, 252, 568, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001847.jpg, 960, 540
+  - annotations:
+      - 1, 487, 251, 549, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001851.jpg, 960, 540
+  - annotations:
+      - 1, 478, 253, 540, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001854.jpg, 960, 540
+  - annotations:
+      - 1, 466, 254, 525, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001857.jpg, 960, 540
+  - annotations:
+      - 1, 454, 253, 513, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001860.jpg, 960, 540
+  - annotations:
+      - 1, 440, 254, 498, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001863.jpg, 960, 540
+  - annotations:
+      - 1, 432, 255, 494, 298, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001866.jpg, 960, 540
+  - annotations:
+      - 1, 430, 254, 492, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001867.jpg, 960, 540
+  - annotations:
+      - 1, 429, 254, 491, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001871.jpg, 960, 540
+  - annotations:
+      - 1, 423, 254, 485, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001874.jpg, 960, 540
+  - annotations:
+      - 1, 414, 255, 479, 296, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001877.jpg, 960, 540
+  - annotations:
+      - 1, 410, 256, 473, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001879.jpg, 960, 540
+  - annotations:
+      - 1, 408, 253, 470, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001882.jpg, 960, 540
+  - annotations:
+      - 1, 407, 252, 469, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001885.jpg, 960, 540
+  - annotations:
+      - 1, 407, 252, 469, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001887.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001892.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001894.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001897.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001900.jpg, 960, 540
+  - annotations:
+      - 1, 407, 250, 469, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001903.jpg, 960, 540
+  - annotations:
+      - 1, 410, 250, 469, 299, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001906.jpg, 960, 540
+  - annotations:
+      - 1, 414, 250, 469, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001909.jpg, 960, 540
+  - annotations:
+      - 1, 416, 253, 472, 294, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001912.jpg, 960, 540
+  - annotations:
+      - 1, 418, 250, 474, 291, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001915.jpg, 960, 540
+  - annotations:
+      - 1, 420, 248, 476, 289, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001918.jpg, 960, 540
+  - annotations:
+      - 1, 425, 246, 476, 287, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001921.jpg, 960, 540
+  - annotations:
+      - 1, 427, 244, 478, 283, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001923.jpg, 960, 540
+  - annotations:
+      - 1, 428, 242, 478, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001926.jpg, 960, 540
+  - annotations:
+      - 1, 429, 240, 479, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001929.jpg, 960, 540
+  - annotations:
+      - 1, 430, 240, 480, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001932.jpg, 960, 540
+  - annotations:
+      - 1, 430, 239, 480, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001935.jpg, 960, 540
+  - annotations:
+      - 1, 430, 239, 480, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001938.jpg, 960, 540
+  - annotations:
+      - 1, 431, 239, 481, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001940.jpg, 960, 540
+  - annotations:
+      - 1, 436, 240, 486, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001945.jpg, 960, 540
+  - annotations:
+      - 1, 437, 240, 487, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001947.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001951.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001954.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001956.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001959.jpg, 960, 540
+  - annotations:
+      - 1, 437, 242, 486, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001962.jpg, 960, 540
+  - annotations:
+      - 1, 435, 242, 484, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001965.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001968.jpg, 960, 540
+  - annotations:
+      - 1, 526, 253, 593, 305, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001835.jpg, 960, 540
+  - annotations:
+      - 1, 520, 252, 587, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001838.jpg, 960, 540
+  - annotations:
+      - 1, 517, 252, 584, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001841.jpg, 960, 540
+  - annotations:
+      - 1, 510, 252, 577, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001844.jpg, 960, 540
+  - annotations:
+      - 1, 497, 252, 562, 304, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001848.jpg, 960, 540
+  - annotations:
+      - 1, 493, 252, 555, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001850.jpg, 960, 540
+  - annotations:
+      - 1, 480, 252, 542, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001853.jpg, 960, 540
+  - annotations:
+      - 1, 470, 254, 531, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001856.jpg, 960, 540
+  - annotations:
+      - 1, 462, 254, 521, 303, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001858.jpg, 960, 540
+  - annotations:
+      - 1, 446, 254, 505, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001862.jpg, 960, 540
+  - annotations:
+      - 1, 432, 255, 494, 298, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001865.jpg, 960, 540
+  - annotations:
+      - 1, 429, 254, 491, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001869.jpg, 960, 540
+  - annotations:
+      - 1, 429, 254, 491, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001870.jpg, 960, 540
+  - annotations:
+      - 1, 424, 254, 486, 297, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001873.jpg, 960, 540
+  - annotations:
+      - 1, 420, 253, 482, 296, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001875.jpg, 960, 540
+  - annotations:
+      - 1, 412, 255, 475, 296, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001878.jpg, 960, 540
+  - annotations:
+      - 1, 409, 253, 471, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001881.jpg, 960, 540
+  - annotations:
+      - 1, 408, 252, 470, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001883.jpg, 960, 540
+  - annotations:
+      - 1, 407, 252, 469, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001888.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001890.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001893.jpg, 960, 540
+  - annotations:
+      - 1, 404, 252, 466, 302, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001896.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001899.jpg, 960, 540
+  - annotations:
+      - 1, 404, 250, 466, 300, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001902.jpg, 960, 540
+  - annotations:
+      - 1, 407, 249, 469, 299, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001905.jpg, 960, 540
+  - annotations:
+      - 1, 410, 250, 469, 299, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001907.jpg, 960, 540
+  - annotations:
+      - 1, 416, 250, 469, 294, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001910.jpg, 960, 540
+  - annotations:
+      - 1, 416, 250, 472, 291, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001913.jpg, 960, 540
+  - annotations:
+      - 1, 418, 250, 474, 291, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001916.jpg, 960, 540
+  - annotations:
+      - 1, 421, 246, 477, 287, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001919.jpg, 960, 540
+  - annotations:
+      - 1, 425, 245, 476, 286, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001922.jpg, 960, 540
+  - annotations:
+      - 1, 429, 242, 478, 279, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001925.jpg, 960, 540
+  - annotations:
+      - 1, 429, 240, 479, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001928.jpg, 960, 540
+  - annotations:
+      - 1, 430, 240, 480, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001931.jpg, 960, 540
+  - annotations:
+      - 1, 430, 240, 480, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001933.jpg, 960, 540
+  - annotations:
+      - 1, 430, 239, 480, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001936.jpg, 960, 540
+  - annotations:
+      - 1, 431, 239, 481, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001939.jpg, 960, 540
+  - annotations:
+      - 1, 433, 239, 483, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001942.jpg, 960, 540
+  - annotations:
+      - 1, 435, 240, 485, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001944.jpg, 960, 540
+  - annotations:
+      - 1, 440, 241, 490, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001948.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001950.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001953.jpg, 960, 540
+  - annotations:
+      - 1, 440, 242, 489, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001957.jpg, 960, 540
+  - annotations:
+      - 1, 439, 242, 488, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001960.jpg, 960, 540
+  - annotations:
+      - 1, 436, 242, 485, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001963.jpg, 960, 540
+  - annotations:
+      - 1, 433, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001966.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001969.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001971.jpg, 960, 540
+  - annotations:
+      - 1, 431, 243, 481, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001977.jpg, 960, 540
+  - annotations:
+      - 1, 431, 243, 479, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001981.jpg, 960, 540
+  - annotations:
+      - 1, 431, 244, 477, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001983.jpg, 960, 540
+  - annotations:
+      - 1, 429, 243, 473, 274, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001987.jpg, 960, 540
+  - annotations:
+      - 1, 425, 241, 469, 272, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001990.jpg, 960, 540
+  - annotations:
+      - 1, 423, 239, 463, 271, 10
+      - 1, 356, 244, 374, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001993.jpg, 960, 540
+  - annotations:
+      - 1, 419, 237, 459, 269, 10
+      - 1, 352, 243, 371, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001995.jpg, 960, 540
+  - annotations:
+      - 1, 421, 235, 461, 267, 10
+      - 1, 353, 243, 372, 274, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001998.jpg, 960, 540
+  - annotations:
+      - 1, 424, 237, 466, 266, 10
+      - 1, 354, 245, 377, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002002.jpg, 960, 540
+  - annotations:
+      - 1, 424, 238, 466, 267, 10
+      - 1, 355, 245, 378, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002004.jpg, 960, 540
+  - annotations:
+      - 1, 430, 237, 472, 266, 10
+      - 1, 359, 246, 382, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002008.jpg, 960, 540
+  - annotations:
+      - 1, 436, 237, 478, 266, 10
+      - 1, 364, 246, 387, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002010.jpg, 960, 540
+  - annotations:
+      - 1, 446, 236, 488, 265, 10
+      - 1, 375, 246, 401, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002014.jpg, 960, 540
+  - annotations:
+      - 1, 380, 245, 406, 275, 3
+      - 1, 451, 236, 493, 265, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002016.jpg, 960, 540
+  - annotations:
+      - 1, 462, 237, 504, 266, 10
+      - 1, 389, 246, 415, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002020.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 391, 246, 417, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002022.jpg, 960, 540
+  - annotations:
+      - 1, 465, 238, 507, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002025.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 466, 238, 508, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002028.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 464, 238, 506, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002032.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 464, 238, 506, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002036.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002038.jpg, 960, 540
+  - annotations:
+      - 1, 477, 236, 517, 266, 10
+      - 1, 393, 248, 427, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002041.jpg, 960, 540
+  - annotations:
+      - 1, 491, 236, 522, 266, 10
+      - 1, 405, 247, 439, 287, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002044.jpg, 960, 540
+  - annotations:
+      - 1, 433, 248, 477, 288, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002047.jpg, 960, 540
+  - annotations:
+      - 1, 453, 250, 497, 289, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002050.jpg, 960, 540
+  - annotations:
+      - 1, 484, 246, 520, 284, 3
+      - 1, 404, 231, 432, 267, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002054.jpg, 960, 540
+  - annotations:
+      - 1, 501, 246, 528, 280, 3
+      - 1, 414, 237, 452, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002057.jpg, 960, 540
+  - annotations:
+      - 1, 438, 236, 481, 266, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002061.jpg, 960, 540
+  - annotations:
+      - 1, 453, 235, 496, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002063.jpg, 960, 540
+  - annotations:
+      - 1, 473, 237, 510, 267, 3
+      - 1, 396, 248, 422, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002066.jpg, 960, 540
+  - annotations:
+      - 1, 499, 237, 524, 265, 3
+      - 1, 410, 249, 446, 280, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002070.jpg, 960, 540
+  - annotations:
+      - 1, 500, 235, 525, 264, 3
+      - 1, 421, 250, 462, 280, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002072.jpg, 960, 540
+  - annotations:
+      - 1, 445, 250, 487, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002075.jpg, 960, 540
+  - annotations:
+      - 1, 474, 249, 516, 280, 3
+      - 1, 398, 233, 425, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002079.jpg, 960, 540
+  - annotations:
+      - 1, 498, 247, 527, 281, 3
+      - 1, 409, 237, 451, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002083.jpg, 960, 540
+  - annotations:
+      - 1, 430, 238, 472, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002086.jpg, 960, 540
+  - annotations:
+      - 1, 446, 237, 492, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002089.jpg, 960, 540
+  - annotations:
+      - 1, 462, 235, 508, 266, 10
+      - 1, 395, 244, 417, 274, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002092.jpg, 960, 540
+  - annotations:
+      - 1, 487, 237, 520, 265, 10
+      - 1, 403, 249, 434, 279, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002095.jpg, 960, 540
+  - annotations:
+      - 1, 497, 236, 529, 264, 10
+      - 1, 413, 249, 453, 282, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002098.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001972.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001974.jpg, 960, 540
+  - annotations:
+      - 1, 431, 243, 481, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001978.jpg, 960, 540
+  - annotations:
+      - 1, 431, 245, 481, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001980.jpg, 960, 540
+  - annotations:
+      - 1, 431, 244, 478, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001984.jpg, 960, 540
+  - annotations:
+      - 1, 430, 244, 474, 275, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001986.jpg, 960, 540
+  - annotations:
+      - 1, 428, 242, 472, 273, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001989.jpg, 960, 540
+  - annotations:
+      - 1, 425, 238, 465, 271, 10
+      - 1, 357, 245, 375, 282, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001992.jpg, 960, 540
+  - annotations:
+      - 1, 419, 236, 459, 268, 10
+      - 1, 352, 243, 370, 275, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001996.jpg, 960, 540
+  - annotations:
+      - 1, 424, 234, 462, 265, 10
+      - 1, 354, 245, 375, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001999.jpg, 960, 540
+  - annotations:
+      - 1, 424, 237, 466, 266, 10
+      - 1, 354, 245, 377, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002001.jpg, 960, 540
+  - annotations:
+      - 1, 355, 245, 378, 276, 3
+      - 1, 425, 237, 467, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002005.jpg, 960, 540
+  - annotations:
+      - 1, 430, 237, 472, 266, 10
+      - 1, 359, 246, 382, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002007.jpg, 960, 540
+  - annotations:
+      - 1, 439, 236, 481, 265, 10
+      - 1, 367, 246, 393, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002011.jpg, 960, 540
+  - annotations:
+      - 1, 445, 236, 487, 265, 10
+      - 1, 372, 246, 398, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002013.jpg, 960, 540
+  - annotations:
+      - 1, 455, 236, 497, 265, 10
+      - 1, 384, 247, 410, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002017.jpg, 960, 540
+  - annotations:
+      - 1, 460, 236, 502, 265, 10
+      - 1, 388, 246, 414, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002019.jpg, 960, 540
+  - annotations:
+      - 1, 465, 238, 507, 267, 10
+      - 1, 391, 246, 417, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002023.jpg, 960, 540
+  - annotations:
+      - 1, 466, 238, 508, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002026.jpg, 960, 540
+  - annotations:
+      - 1, 465, 238, 507, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002029.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 464, 238, 506, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002031.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002034.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 392, 246, 418, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002037.jpg, 960, 540
+  - annotations:
+      - 1, 394, 246, 422, 276, 3
+      - 1, 471, 235, 513, 264, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002040.jpg, 960, 540
+  - annotations:
+      - 1, 401, 246, 435, 278, 3
+      - 1, 489, 236, 520, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002043.jpg, 960, 540
+  - annotations:
+      - 1, 424, 248, 466, 288, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002046.jpg, 960, 540
+  - annotations:
+      - 1, 448, 250, 492, 289, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002049.jpg, 960, 540
+  - annotations:
+      - 1, 468, 248, 512, 287, 3
+      - 1, 400, 235, 423, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002052.jpg, 960, 540
+  - annotations:
+      - 1, 490, 245, 522, 281, 3
+      - 1, 404, 231, 437, 267, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002055.jpg, 960, 540
+  - annotations:
+      - 1, 507, 245, 528, 276, 3
+      - 1, 421, 237, 459, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002058.jpg, 960, 540
+  - annotations:
+      - 1, 429, 236, 469, 267, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002060.jpg, 960, 540
+  - annotations:
+      - 1, 458, 235, 501, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002064.jpg, 960, 540
+  - annotations:
+      - 1, 476, 237, 513, 267, 3
+      - 1, 396, 250, 425, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002067.jpg, 960, 540
+  - annotations:
+      - 1, 489, 235, 522, 264, 3
+      - 1, 402, 248, 437, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002069.jpg, 960, 540
+  - annotations:
+      - 1, 431, 250, 473, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002073.jpg, 960, 540
+  - annotations:
+      - 1, 450, 250, 492, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002076.jpg, 960, 540
+  - annotations:
+      - 1, 464, 249, 506, 280, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002078.jpg, 960, 540
+  - annotations:
+      - 1, 489, 248, 521, 280, 3
+      - 1, 402, 236, 436, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002081.jpg, 960, 540
+  - annotations:
+      - 1, 507, 247, 530, 279, 3
+      - 1, 417, 238, 459, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002084.jpg, 960, 540
+  - annotations:
+      - 1, 434, 237, 477, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002087.jpg, 960, 540
+  - annotations:
+      - 1, 451, 237, 497, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002090.jpg, 960, 540
+  - annotations:
+      - 1, 476, 237, 516, 267, 10
+      - 1, 397, 245, 425, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002093.jpg, 960, 540
+  - annotations:
+      - 1, 492, 238, 522, 265, 10
+      - 1, 403, 248, 440, 280, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002096.jpg, 960, 540
+  - annotations:
+      - 1, 421, 249, 463, 282, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002099.jpg, 960, 540
+  - annotations:
+      - 1, 431, 243, 479, 277, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001982.jpg, 960, 540
+  - annotations:
+      - 1, 431, 245, 477, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001985.jpg, 960, 540
+  - annotations:
+      - 1, 428, 242, 472, 273, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001988.jpg, 960, 540
+  - annotations:
+      - 1, 425, 241, 469, 272, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001991.jpg, 960, 540
+  - annotations:
+      - 1, 421, 237, 461, 269, 10
+      - 1, 353, 245, 371, 282, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001994.jpg, 960, 540
+  - annotations:
+      - 1, 420, 235, 460, 267, 10
+      - 1, 352, 243, 372, 275, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001997.jpg, 960, 540
+  - annotations:
+      - 1, 354, 245, 375, 277, 3
+      - 1, 422, 237, 464, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002000.jpg, 960, 540
+  - annotations:
+      - 1, 424, 237, 466, 266, 10
+      - 1, 354, 245, 377, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002003.jpg, 960, 540
+  - annotations:
+      - 1, 427, 237, 469, 266, 10
+      - 1, 359, 246, 382, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002006.jpg, 960, 540
+  - annotations:
+      - 1, 434, 237, 476, 266, 10
+      - 1, 364, 246, 387, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002009.jpg, 960, 540
+  - annotations:
+      - 1, 441, 236, 483, 265, 10
+      - 1, 369, 246, 395, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002012.jpg, 960, 540
+  - annotations:
+      - 1, 449, 236, 491, 265, 10
+      - 1, 378, 245, 404, 275, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002015.jpg, 960, 540
+  - annotations:
+      - 1, 457, 236, 499, 265, 10
+      - 1, 384, 247, 410, 277, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002018.jpg, 960, 540
+  - annotations:
+      - 1, 462, 237, 504, 266, 10
+      - 1, 391, 246, 417, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002021.jpg, 960, 540
+  - annotations:
+      - 1, 465, 238, 507, 267, 10
+      - 1, 391, 246, 417, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002024.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 466, 238, 508, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002027.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002030.jpg, 960, 540
+  - annotations:
+      - 1, 464, 238, 506, 267, 10
+      - 1, 393, 246, 419, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002033.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 464, 238, 506, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002035.jpg, 960, 540
+  - annotations:
+      - 1, 393, 246, 419, 276, 3
+      - 1, 468, 237, 510, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002039.jpg, 960, 540
+  - annotations:
+      - 1, 479, 238, 518, 266, 10
+      - 1, 397, 248, 431, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002042.jpg, 960, 540
+  - annotations:
+      - 1, 410, 248, 449, 285, 3
+      - 1, 496, 230, 522, 264, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002045.jpg, 960, 540
+  - annotations:
+      - 1, 438, 248, 482, 287, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002048.jpg, 960, 540
+  - annotations:
+      - 1, 457, 248, 501, 287, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002051.jpg, 960, 540
+  - annotations:
+      - 1, 477, 248, 513, 286, 3
+      - 1, 402, 231, 426, 267, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002053.jpg, 960, 540
+  - annotations:
+      - 1, 496, 244, 528, 280, 3
+      - 1, 412, 232, 446, 268, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002056.jpg, 960, 540
+  - annotations:
+      - 1, 425, 235, 465, 268, 3
+      - 1, 507, 245, 530, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002059.jpg, 960, 540
+  - annotations:
+      - 1, 444, 236, 487, 269, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002062.jpg, 960, 540
+  - annotations:
+      - 1, 461, 236, 504, 269, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002065.jpg, 960, 540
+  - annotations:
+      - 1, 487, 239, 520, 268, 3
+      - 1, 399, 250, 432, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002068.jpg, 960, 540
+  - annotations:
+      - 1, 500, 236, 525, 264, 3
+      - 1, 418, 248, 456, 280, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002071.jpg, 960, 540
+  - annotations:
+      - 1, 435, 250, 477, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002074.jpg, 960, 540
+  - annotations:
+      - 1, 460, 250, 502, 281, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002077.jpg, 960, 540
+  - annotations:
+      - 1, 476, 249, 518, 280, 3
+      - 1, 399, 235, 429, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002080.jpg, 960, 540
+  - annotations:
+      - 1, 495, 247, 524, 281, 3
+      - 1, 406, 236, 444, 267, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002082.jpg, 960, 540
+  - annotations:
+      - 1, 507, 247, 528, 279, 3
+      - 1, 421, 238, 463, 268, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002085.jpg, 960, 540
+  - annotations:
+      - 1, 439, 237, 482, 266, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002088.jpg, 960, 540
+  - annotations:
+      - 1, 458, 236, 504, 267, 10
+      - 1, 397, 244, 415, 276, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002091.jpg, 960, 540
+  - annotations:
+      - 1, 478, 236, 518, 266, 10
+      - 1, 397, 245, 426, 278, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002094.jpg, 960, 540
+  - annotations:
+      - 1, 410, 249, 450, 282, 3
+      - 1, 497, 238, 526, 264, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002097.jpg, 960, 540
+  - annotations:
+      - 1, 425, 250, 468, 282, 3
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0002100.jpg, 960, 540
+  - annotations:
+      - 1, 432, 242, 482, 276, 10
+    meta: 23sp_ground_sentry/blue_1/23sp_ground_sentry__blue_1__7/image-0001975.jpg, 960, 540
+supported_label_types:
+  - robot_plate_blue
